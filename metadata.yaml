@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41434'
     url: http://www.gutenberg.org/2009/agents/41434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41936#Principles-of-Political-Economy
 gutenberg_issued: '2013-01-28'
 gutenberg_type: Text
 identifiers:
