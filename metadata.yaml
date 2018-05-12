@@ -1,0 +1,28 @@
+_repo: Principles-of-Political-Economy_41936
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41936-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Perry, Arthur Latham
+    alias: Perry, A. L. (Arthur Latham)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '41434'
+    url: http://www.gutenberg.org/2009/agents/41434
+description: ''
+gutenberg_issued: '2013-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41936'
+  lccn: '75018928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+title: Principles of Political Economy
+url: http://www.gutenberg.org/ebooks/41936
